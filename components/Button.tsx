@@ -4,7 +4,7 @@ type ButtonProps = {
   type: "button" | "submit";
   tittle: string;
   icon?: string;
-  variant?: "btn_dark_green";
+  variant?: string;
   onClick?: any;
 };
 
