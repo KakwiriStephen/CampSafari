@@ -53,6 +53,7 @@ const CampSite = ({
   );
 };
 
+// scroll
 const Camp = () => {
   const scrollContainerRef = useRef<HTMLDivElement>(null);
   const [scrollPosition, setScrollPosition] = useState(0);
