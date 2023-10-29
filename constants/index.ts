@@ -55,7 +55,7 @@ export const FOOTER_LINKS = [
       "About Hilink",
       "Press Releases",
       "Environment",
-      "Jobs",
+      "Career Info",
       "Privacy Policy",
       "Contact Us",
     ],
